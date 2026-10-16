@@ -1,0 +1,6 @@
+{
+  "name": "Bluetooth Auto Off",
+  "description": "Automatically turns off Bluetooth when no devices are connected to save battery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

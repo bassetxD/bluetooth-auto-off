@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bluetooth Auto Off</string>
+    <string name="service_title">Bluetooth Auto-Off</string>
+    <string name="service_running_desc">Monitoring Bluetooth connection status</string>
+    <string name="service_countdown_format">No devices connected. Turning off in %d seconds…</string>
+    <string name="action_cancel_timer">Cancel</string>
+    <string name="action_turn_off_now">Turn Off Now</string>
+    <string name="notification_channel_name">Bluetooth Monitor Service</string>
+    <string name="notification_channel_desc">Notifications for auto-turning off Bluetooth when idle</string>
+</resources>
